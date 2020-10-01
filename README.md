@@ -1,6 +1,6 @@
 # Milwaukee County District Attorney Data
 
-This repository contains aggregate data that populates the [Milwaukee County District Attorney Dashboard](https://data.mkedao.com/). Data are updated at monthly intervals with a month lag. For example, on December 1st, data will contain data up until the end of October. This is due to a processing delay in the data.
+This repository contains aggregate data that populates the [Milwaukee County District Attorney Dashboard](https://data.mkedao.com/). Data are updated at monthly intervals with a month lag. For example, on December 1st, data will be current up until the end of October. This is due to a processing delay in the data.
 
 Content on this repo will change as data and documentation are updated.
 
