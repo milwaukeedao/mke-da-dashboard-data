@@ -1,11 +1,11 @@
-,year,milw_or_other,Felony,Misdemeanor
-0,2015,Milwaukee Police Department,3750,3887
-1,2015,Other Law Enforcement Agency,1847,3167
-2,2016,Milwaukee Police Department,3722,3367
-3,2016,Other Law Enforcement Agency,1999,3351
-4,2017,Milwaukee Police Department,3794,3637
-5,2017,Other Law Enforcement Agency,2098,3391
-6,2018,Milwaukee Police Department,3659,3768
-7,2018,Other Law Enforcement Agency,2309,3262
-8,2019,Milwaukee Police Department,3384,3487
-9,2019,Other Law Enforcement Agency,2181,3356
+year,milw_or_other,Felony,Misdemeanor
+2015,Milwaukee Police Department,3750,3887
+2015,Other Law Enforcement Agency,1847,3167
+2016,Milwaukee Police Department,3722,3367
+2016,Other Law Enforcement Agency,1999,3351
+2017,Milwaukee Police Department,3794,3637
+2017,Other Law Enforcement Agency,2098,3391
+2018,Milwaukee Police Department,3659,3768
+2018,Other Law Enforcement Agency,2309,3262
+2019,Milwaukee Police Department,3384,3487
+2019,Other Law Enforcement Agency,2181,3356
