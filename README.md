@@ -23,9 +23,3 @@ This WCCA REST Interface provides access to certain bulk access to public record
 This dashboard uses Wisconsin Court data made available through the WCCA REST Interface
 
 The data or information provided is not the official records of the court. Data provided from WCCA Information may not reflect the most current disposition activity. Users should verify the data and information by consulting the official court record maintained by the court in question. The official custodian of all official circuit court records in Wisconsin is the clerk of circuit court or register in probate.
-
-### WCCA Data Update
-
-The Wisconsin State Courts recently changed their policy that governs access to bulk court data and now charge Wisconsin's District Attorney offices for its use. We are actively working to turn this data back on to provide monthly updates for these reports.
-
-This specifically affects our ability to provide more recent updates to the disposition and sentencing reports. We anticipate being able to resolve this problem before 11-01-2020.
